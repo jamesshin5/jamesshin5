@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm James Shin, a third year at UC Berkeley studying Computer Science with a minor in Data Science. I am passionate about growing as a software developer and building impactful projects!
+I'm James Shin, a third year at UC Berkeley studying Computer Science with a minor in Data Science. I am passionate about growing as a software developer and building impactful projects!
 
 - 🔭 I’m currently working on building Spero Apparel's new website to open a virtual store showcasing Christian-themed merchandise as part of the remote marketing & sales solutions in response to COVID-19
 - 🔭 I’m also currently working with several other developers to build Kalenda, a platform that makes scheduling team meetings more effective
