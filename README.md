@@ -1,16 +1,13 @@
 ### Hi there 👋
+#### I'm James Shin, a third year at UC Berkeley studying Computer Science with a minor in Data Science. I am passionate about growing as a software developer and building impactful projects!
 
-<!--
-**jamesshin5/jamesshin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building Spero Apparel's new website to open a virtual store showcasing Christian-themed merchandise as part of the remote marketing & sales solutions in response to COVID-19
+- 🔭 I’m also currently working with several other developers to build Kalenda, a platform that makes scheduling team meetings more effective
+- 🌱 I’m currently learning about different stacks to build/serve static sites, as well as how to better utilize Adobe Illustrator and Photoshop
+- 📫 How to reach me: james.shin@berkeley.edu
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I achieved a third degree black belt in Taekwondo! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Links 
+- [My LinkedIn](https://www.linknedin.com/in/jamesjungmin) - learn more about me
+- [My Resume](https://docs.google.com/document/d/11EAhygUfm4MIfEYaZWMtyvKazCMTv9jtIN71UUcse6g/edit?usp=sharing)
