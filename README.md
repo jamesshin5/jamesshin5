@@ -10,4 +10,4 @@ I'm James Shin, a third year at UC Berkeley studying Computer Science with a min
 
 #### Links 
 - [My LinkedIn](https://www.linknedin.com/in/jamesjungmin) - learn more about me
-- [My Resume](https://docs.google.com/document/d/1c9DFKnOQqEu38ZmC4F0VthLPjkq5mUevEYDA6u2IfTo/edit?usp=sharing)
+- [My Resume](https://drive.google.com/file/d/1xzMP3ilncLs2sp35fwITb432ykUb1_Jq/view?usp=sharing)
