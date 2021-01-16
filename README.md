@@ -7,7 +7,7 @@ I'm James Shin, a third year at UC Berkeley studying Computer Science with a min
   - Currently, I prefer working with React/Next.js and Google Firebase
 - 📫 How to reach me: james.shin@berkeley.edu
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I achieved a third degree black belt in Taekwondo! 
+- ⚡ Fun fact: I am a third degree black belt in Taekwondo! 
 
 #### Links 
 - [My LinkedIn](https://www.linknedin.com/in/jamesjungmin) - learn more about me
