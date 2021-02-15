@@ -12,5 +12,5 @@ I'm James Shin, a third year at UC Berkeley studying Computer Science with a min
 - ⚡ Fun fact: I am a third degree black belt in Taekwondo! 
 
 #### Links 
-- [My LinkedIn](https://www.linknedin.com/in/jamesjungmin) - learn more about me
+- [My LinkedIn](https://www.linkedin.com/in/jamesjungmin) - learn more about me
 - [My Resume](https://drive.google.com/file/d/1_eZ0rFuWMsX4EKojX3DPZfkeBqayifJR/view?usp=sharing)
